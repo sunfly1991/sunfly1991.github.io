@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sunfly1991の博客
+title: Hexo
 subtitle:
-description: 不努力就去shi!
-author: 贱贱贱贱人
-language: zh-Hans
+description:
+author: John Doe
+language:
 timezone:
-avatar: https://avatars1.githubusercontent.com/u/32269?v=3&s=460
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -64,11 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:sunfly1991/sunfly1991.github.io.git
-  branch: master
+  type:
